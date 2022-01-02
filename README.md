@@ -71,4 +71,4 @@ Do you want to be part of this project? Click [here](https://github.com/joabehen
 
 This project is under license. See the [license](https://github.com/joabehenrique/challenges-rocketseat/blob/main/LICENSE.md) file for more details.
 
-[⬆ Back to top](#[:hammer_and_wrench: Working..] ChallengesRocketseat )<br>
+[⬆ Back to top](#ChallengesRocketseat)<br>
